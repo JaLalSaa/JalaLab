@@ -15,7 +15,7 @@ It includes:
 - Google Fonts
 
 ## 📸 Screenshot
-(You can add a screenshot here later)
+![CV Preview](https://github.com/JaLalSaa/nerix-lab/blob/main/cv-project/screenshot.png)
 
 ## ✍️ Author
 [Jalal Sadeq](https://github.com/jalalsadeq)
