@@ -1,24 +1,29 @@
 # 🧪 NΞRIX LAB — The Code Dojo
 
-> Welcome to my personal **web dojo**, where I sharpen my front-end sword daily 🗡️  
-> Every folder here is a training session — small but powerful.
+> Welcome to my personal **web dojo**, where I train, experiment, and evolve as a front-end developer.  
+> Each folder is a unique project — from quick sketches to full components and interface prototypes.
 
 ---
 
-## 🧩 Experiments & Training Quests
+## 🎯 About This Repository
 
-| # | Project | Description | Preview |
-|--:|---------|-------------|---------|
-| 01 | `profile-card` | My first styled character card using pure HTML/CSS | *Coming soon* |
-| 02 | `hover-buttons` | Collection of animated hover effects using transitions | *Coming soon* |
-| 03 | `grid-practice` | Learning layout spells using CSS Grid 🧱 | *Coming soon* |
+This lab is my development ground — a growing collection of front-end projects, UI experiments, and design challenges.  
+It's not about perfection. It's about iteration, creativity, and daily improvement.
+
+- 💡 Built with HTML, CSS, and JavaScript
+- 🎨 Experiments with layouts, animations, and UI patterns
+- ⚔️ Inspired by real problems, tutorials, and spontaneous ideas
 
 ---
 
-## 🧠 Why this exists?
+## 📁 Structure
 
-This lab is for daily experiments, layout drills, and design techniques as I grow stronger as a front-end developer.  
-You won't find polished apps here — only **battle-tested fragments**.
+Each folder is a standalone project with its own:
+- `index.html`
+- `style.css` or `master.css`
+- Optional assets: images, icons, scripts
+
+Some projects may be small, others more complex — all serve a purpose in my learning journey.
 
 ---
 
