@@ -1,0 +1,86 @@
+* {
+      box-sizing: border-box;
+      font-family: "Roboto Condensed", sans-serif;
+    }
+
+    #cv {
+      background-color: #edf2f4;
+      color: #2b2d42;
+      width: 60%;
+      max-width: 700px;
+      margin: 20px auto;
+      padding: 20px;
+      font-size: 17px;
+      border-radius: 10px;
+    }
+
+    @media (max-width: 768px) {
+      #cv {
+        width: 100%;
+      }
+    }
+
+    #cv .pfp,
+    .regarding,
+    .skills,
+    .languages,
+    .experience,
+    .education {
+      text-align: center;
+      border-bottom: 3px solid #2b2d42;
+    }
+
+    #cv .education h3 {
+      text-align: center;
+    }
+
+    #cv .pfp h1 {
+      margin-bottom: 5px;
+      margin-top: 5px;
+    }
+
+    #cv .pfp p {
+      margin-top: 0;
+    }
+
+    .experience ul,
+    .education ul {
+      text-align: left;
+    }
+
+    #cv .skills ul,
+    #cv .languages ul {
+      list-style-type: none;
+      display: flex;
+      justify-content: space-around;
+      padding-left: 0;
+      flex-wrap: wrap;
+    }
+
+    #cv .skills ul li,
+    #cv .languages ul li {
+      list-style-type: none;
+      display: inline;
+      background-color: #8d99ae49;
+      padding: 8px;
+      margin: 5px;
+      border-radius: 6px;
+      transition: .5s;
+    }
+
+    #cv .skills ul li:hover,
+    #cv .languages ul li:hover {
+      background-color: #8d99aed0;
+    }
+
+
+    #cv .contact {
+      text-align: center;
+      font-size: 15px;
+      margin-top: 10px;
+      margin-bottom: 15px;
+    }
+
+    #cv .contact p {
+      margin: 5px 0;
+    }
