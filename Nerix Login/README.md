@@ -1,61 +1,35 @@
-# 🌀 Login Form — Nerix UI
+# 🔐 Login Form
 
-A sleek and modern login form built using **HTML** and **CSS**, designed with responsiveness and clean aesthetic in mind.
-
-![screenshot](preview.png) <!-- يمكنك لاحقًا رفع صورة لمعاينة التصميم وتسميتها preview.png -->
-
----
+A simple and responsive login form built with HTML and CSS, featuring Google Fonts integration and a clean, modern design.
 
 ## ✨ Features
 
-- Responsive layout (desktop & mobile)
-- Clean glassy-style design with subtle shadows
-- Interactive button & input focus states
-- Social login UI (Google, Twitter, GitHub icons)
-- Arabic + English font integration via Google Fonts (Cairo, Montserrat)
+- 📱 Responsive layout that adapts to different screen sizes
+- 🔤 Custom fonts from Google Fonts (Cairo and Montserrat)
+- 🎨 Styled input fields with focus effects
+- 🌐 Social login icons (Google, Twitter, GitHub)
+- ✅ Clear call-to-action buttons and links
 
----
+## 🛠️ Technologies Used
 
-## 🚀 Tech Stack
+- 📝 HTML5
+- 🎨 CSS3
+- 🌍 Google Fonts
 
-- **HTML5** — semantic structure
-- **CSS3** — custom styles and media queries
-- **Google Fonts** — Cairo + Montserrat
+## 🚀 How to Use
 
----
-
-## 📱 Responsive Design
-
-Media queries are used to adapt layout for small screens (≤768px), ensuring a smooth user experience on all devices.
-
----
-
-## 📂 Project Structure
-
-project-root/ │ ├── index.html        # Main login form page ├── style.css         # Styling rules └── icons/            # Folder for social media icons (Google, Twitter, GitHub)
-
----
+1. 🔽 Clone this repository or download the files.
+2. 🌐 Open `index.html` in your web browser.
+3. 🎨 Customize the form or styles as needed.
 
 ## 📸 Preview
 
-> Add a screenshot of the login form here for better presentation.  
-> You can take a screenshot and upload it as `preview.png`.
+![Login form preview](./Nerix-Login-preview.png)  
+
+## 📄 License
+
+This project is open source and available under the MIT License.
 
 ---
 
-## 🔗 Live Demo (optional)
-
-You can deploy this form on GitHub Pages or any static hosting service and share the link here.
-
----
-
-## 🧠 Inspiration
-
-Created as part of **NΞRIX LAB**, my personal dojo for sharpening front-end skills 🗡️  
-Follow my journey here: [github.com/JalalSaa](https://github.com/JalalSaa)
-
----
-
-## 📜 License
-
-Free to use and modify. Attribution appreciated but not required.
+Created by [JaLalSaa](https://github.com/JaLalSaa) 👋
