@@ -1,0 +1,161 @@
+* {
+  font-family: "Cairo", sans-serif;
+  box-sizing: border-box;
+  -webkit-tap-highlight-color: transparent;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  background-color: #111927;
+  color: #fff;
+  padding: 20px;
+  width: 50%;
+  border-radius: 15px;
+}
+
+.container h1 {
+  text-align: center;
+  margin: 0 auto;
+}
+
+.user-name,
+.pass-word {
+  display: flex;
+  flex-direction: column;
+  color: #9bacc0;
+}
+
+input {
+  background-color: #111927;
+  border: 1px solid #9bacc0;
+  color: #fff;
+  border-radius: 5px;
+}
+
+.container form .forgot {
+  display: flex;
+  justify-content: end;
+  margin: 0;
+}
+
+.container form .forgot a {
+  margin: 0;
+  color: #cadef5;
+  text-decoration: none;
+  position: relative;
+}
+
+.container form .forgot a::before {
+  content: "";
+  width: 0;
+  height: 2px;
+  background-color: #cadef5;
+  position: absolute;
+  top: 90%;
+  left: 0;
+  transition: 0.5s;
+}
+
+.container form .forgot a:hover::before {
+  width: 100%;
+}
+
+.container form .sign-in button {
+  width: 100%;
+  margin: 8px auto;
+  background-color: #ab8cf7;
+  border: 1px solid #ab8cf7;
+  border-radius: 8px;
+  font-weight: bold;
+  font-size: 17px;
+  transition: 0.3s;
+}
+
+.container form .sign-in button:hover {
+  background-color: #9E77FF;
+}
+
+.container form .container-2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.container form .container-2 p#special,
+.container form .container-2 p {
+  text-align: center;
+  color: #9bacc0;
+  position: relative;
+}
+
+.container form .container-2 p#special::before,
+.container form .container-2 p#special::after {
+  content: "";
+  height: 1px;
+  width: 27%;
+  background-color: #9bacc0;
+  position: absolute;
+}
+
+@media (max-width: 768px) {
+
+  .container form .container-2 p#special::before,
+  .container form .container-2 p#special::after {
+    width: 19%;
+  }
+}
+
+.container form .container-2 p#special::before {
+  top: 50%;
+  left: 0;
+}
+
+.container form .container-2 p#special::after {
+  top: 50%;
+  right: 0;
+}
+
+.container form .container-2 .social-accounts {
+  display: flex;
+  justify-content: center;
+}
+
+.container form .container-2 .social-accounts img {
+  width: 50px;
+  padding: 3px;
+  margin: 0 15px;
+  border-radius: 50%;
+  transition: .3s;
+}
+
+.container form .container-2 .social-accounts img:hover {
+  box-shadow: 0 0 5px rgba(255, 255, 255, 0.52);
+  
+}
+
+.container form .container-2 p a {
+  color: #fff;
+  font-weight: 600;
+  text-decoration: none;
+  transition: .4s;
+}
+
+.container form .container-2 p a:hover {
+  color: #cadef5;
+}
+
+input:focus {
+  border: 2px solid #9bacc0;
+  outline: none;
+  color: #fff;
+}
+
+@media (max-width: 768px) {
+  .container {
+    width: 100%;
+  }
+}
