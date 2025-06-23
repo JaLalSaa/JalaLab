@@ -1,4 +1,4 @@
-# 🔐 Login Form
+# 🔐 Nerix Form
 
 A simple and responsive login form built with HTML and CSS, featuring Google Fonts integration and a clean, modern design.
 
@@ -24,7 +24,7 @@ A simple and responsive login form built with HTML and CSS, featuring Google Fon
 
 ## 📸 Preview
 
-![Login form preview](./Nerix-Login-preview.png)  
+![Nerix form preview](https://github.com/JaLalSaa/nerix-lab/blob/main/Previews/Nerix-Login-Preview.png)  
 
 ## 📄 License
 
