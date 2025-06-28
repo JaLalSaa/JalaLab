@@ -1,4 +1,4 @@
-# 🧪 NΞRIX LAB — The Code Dojo
+# 🧪 NΞRIX LAB
 
 > Welcome to my personal **web dojo**, where I train, experiment, and evolve as a front-end developer.  
 > Each folder is a unique project — from quick sketches to full components and interface prototypes.
