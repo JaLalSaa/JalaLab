@@ -15,4 +15,4 @@ It includes:
 ![CV Preview](https://github.com/JaLalSaa/nerix-lab/blob/main/Previews/cv-preview.png)
 
 ## ✍️ Author
-[Jalal Sadeq](https://github.com/jalalsadeq)
+[JaLalSaa](https://github.com/JaLalSaa)
