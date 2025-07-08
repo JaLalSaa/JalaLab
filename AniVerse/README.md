@@ -4,9 +4,9 @@ A responsive dark-themed anime gallery showcasing favorite anime series with hov
 
 ---
 
-## 🔴 Live Preview
+## 🔴 Screenshot Preview
 
-🌠 [AniVerse](https://your-live-preview-url.com)
+![AniVerse Preview](https://github.com/JaLalSaa/JalaLab/blob/main/Previews/AniVerse.png)  
 Just a Glimpse of My Anime Faves!
 
 ---
