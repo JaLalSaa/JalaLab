@@ -1,4 +1,4 @@
-# Anime Gallery 🎴
+# 🎴 AniVerse (Anime Gallery)
 
 A responsive dark-themed anime gallery showcasing favorite anime series with hover info cards.
 
@@ -6,7 +6,8 @@ A responsive dark-themed anime gallery showcasing favorite anime series with hov
 
 ## 🔴 Live Preview
 
-Open the `index.html` file in any modern browser to see the interactive gallery in action.
+🌠 [AniVerse](https://your-live-preview-url.com)
+Just a Glimpse of My Anime Faves!
 
 ---
 
@@ -57,4 +58,4 @@ This project was developed with some help and guidance from **ChatGPT** to impro
 
 ---
 
-> Developed by JaLalSaa 🚀
+> 🚀 Developed by [JaLalSaa](https://github.com/JaLalSaa)
