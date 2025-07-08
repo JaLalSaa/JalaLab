@@ -1,4 +1,4 @@
-# 🔐 Nerix Form
+# 🔐 Simple Login Form
 
 A simple and responsive login form built with HTML and CSS, featuring Google Fonts integration and a clean, modern design.
 
